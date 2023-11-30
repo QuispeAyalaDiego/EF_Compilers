@@ -24,7 +24,7 @@ Analizador Sintáctico y Léxico (5 puntos):
 Se utiliza ANTLR4 para generar un lexer y un parser basados en una gramática definida SimpleLanguage.g4  . Este componente se encarga del análisis sintáctico y léxico del lenguaje.
 
 Generación de Código IR (5 puntos):
-Implementación enS impleLanguageBaseListener.java
+Implementación enimpleLanguageBaseListener.java
 
 
 Optimización de Código (5 puntos):
