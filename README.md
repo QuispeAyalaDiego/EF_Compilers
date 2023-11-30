@@ -32,4 +32,4 @@ Se borro y optimizaron distintos apartados del codigo para que funcione en imple
 
 
 Ejecución en Tiempo Real (3 puntos):
-El coddigo se ejecuto sin embargo no se llego a una depurracion satisfactoria
+El codigo se ejecuto sin embargo no se llego a una depurracion satisfactoria
